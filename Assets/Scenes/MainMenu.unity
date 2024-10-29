@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Transition
       objectReference: {fileID: 0}
+    - target: {fileID: 4389357160461990958, guid: 91b54b980c8024b3d945f0c5a963c1c8, type: 3}
+      propertyPath: m_SortingOrder
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 6062839292888994860, guid: 91b54b980c8024b3d945f0c5a963c1c8, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -2026,7 +2030,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.343, y: 0.04460907}
+  m_AnchoredPosition: {x: 0.35, y: 0.04460907}
   m_SizeDelta: {x: 1.86826, y: 0.13918}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &749212004
@@ -2049,7 +2053,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Hmph! There are picnics in peril! '
+  m_text: 'Hmph... There are picnics in peril! '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c7de10734d6994cfebff741e52e077de, type: 2}
   m_sharedMaterial: {fileID: 5089313054276764285, guid: c7de10734d6994cfebff741e52e077de, type: 2}

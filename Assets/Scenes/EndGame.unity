@@ -2275,6 +2275,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Transition
       objectReference: {fileID: 0}
+    - target: {fileID: 4389357160461990958, guid: 91b54b980c8024b3d945f0c5a963c1c8, type: 3}
+      propertyPath: m_SortingOrder
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 6062839292888994860, guid: 91b54b980c8024b3d945f0c5a963c1c8, type: 3}
       propertyPath: m_Pivot.x
       value: 0
